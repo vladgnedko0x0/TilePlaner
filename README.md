@@ -1,11 +1,1 @@
-# TilePlanner
-A simplified derivative of xTiles
-
-This is a diploma prooject meant to create a simplified clone/derivative of xTiles.
-
-Project's official name is WayDo.
-
-The main difference is specialization towards trip planning.
-
-Otherwise, basic functionality follows the same purpose as that of xTiles - create tiles with information in them to plan your future work.
-
+WayDo is a diploma project and a simplified version of xTiles, tailored for trip planning. It allows users to create information tiles to organize and plan their journeys, offering a structured way to manage tasks and travel details.
