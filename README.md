@@ -1,1 +1,2 @@
-WayDo is a diploma project and a simplified version of xTiles, tailored for trip planning. It allows users to create information tiles to organize and plan their journeys, offering a structured way to manage tasks and travel details.
+TilePlanner (WayDo)
+TilePlanner is a simplified derivative of xTiles, created as a diploma project. It focuses on trip planning while keeping the core functionality of xTiles—creating tiles with information to plan tasks. TilePlanner is ideal for organizing your travels and managing all trip-related details efficiently.
