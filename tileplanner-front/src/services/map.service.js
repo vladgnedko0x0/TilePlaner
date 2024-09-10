@@ -1,6 +1,6 @@
 import axios from 'axios'
 import { ItemService } from './item.service';
-const apiKeyGoogle = 'AIzaSyB2zarRavKevfk14UHTE32duLrqmVgyOr4';
+const apiKeyGoogle = 'api key';
 export const MapService = {
     async getCoordinatesByAddress(address, setCoordinates, shortAddress) {
         if (address != null) {
